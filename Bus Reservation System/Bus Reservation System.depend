@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521543426 source:c:\users\sarwa\desktop\bus reservation system\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+

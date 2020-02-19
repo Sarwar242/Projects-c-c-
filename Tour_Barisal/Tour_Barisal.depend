@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522083206 source:c:\users\sarwa\desktop\tour_barisal\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<fstream>
+	"Place.h"
+
+1522062867 c:\users\sarwa\desktop\tour_barisal\place.h
+
+1522083611 source:c:\users\sarwa\desktop\tour_barisal\place.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	"Place.h"
+

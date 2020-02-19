@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1526125731 source:c:\users\sarwa\desktop\age_calculator\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<conio.h>
+	<windows.h>
+	"myHeader.h"
+	"ageClass.h"
+
+1526059133 c:\users\sarwa\desktop\age_calculator\myheader.h
+
+1526066468 source:c:\users\sarwa\desktop\age_calculator\myheader.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<cstring>
+	"myHeader.h"
+	"ageClass.h"
+
+1526150857 source:c:\users\sarwa\desktop\age_calculator\ageclass.cpp
+	"ageClass.h"
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<cstring>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+	"myHeader.h"
+
+1526073415 c:\users\sarwa\desktop\age_calculator\ageclass.h
+

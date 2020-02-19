@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507397034 source:e:\documents\project aspia\daily_market_price\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

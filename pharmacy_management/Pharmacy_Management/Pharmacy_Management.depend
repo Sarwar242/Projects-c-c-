@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523341401 source:c:\users\lenovo\desktop\pharmacy_management\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<string>
+	"Pharmacy.h"
+
+1523343095 c:\users\lenovo\desktop\pharmacy_management\pharmacy.h
+	<fstream>
+	<string>
+
+1523698670 source:c:\users\sarwa\desktop\pharmacy_management\pharmacy_management\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<string>
+	"Pharmacy.h"
+
+1523697990 c:\users\sarwa\desktop\pharmacy_management\pharmacy_management\pharmacy.h
+

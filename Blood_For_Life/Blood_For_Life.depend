@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1525723008 source:c:\users\sarwa\desktop\blood_for_life\bloodbank.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<dos.h>
+	"bloodBank.h"
+
+1525720691 c:\users\sarwa\desktop\blood_for_life\bloodbank.h
+
+1525630081 source:c:\users\sarwa\desktop\blood_for_life\main.cpp
+	<iostream>
+	"bloodBank.h"
+

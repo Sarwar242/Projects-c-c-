@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1521729735 source:c:\users\sarwa\desktop\peronal dairy management\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	<conio.h>
+	<windows.h>
+	"Record.h"
+	"Welcome.h"
+
+1521690889 c:\users\sarwa\desktop\peronal dairy management\add_record.h
+	"validy.h"
+
+1521690473 c:\users\sarwa\desktop\peronal dairy management\validy.h
+
+1521690906 c:\users\sarwa\desktop\peronal dairy management\view_record.h
+
+1521623870 c:\users\sarwa\desktop\peronal dairy management\welcome.h
+
+1521818835 c:\users\sarwa\desktop\peronal dairy management\record.h
+	"validy.h"
+

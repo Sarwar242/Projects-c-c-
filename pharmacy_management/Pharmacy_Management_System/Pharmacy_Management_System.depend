@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525794768 source:c:\users\sarwa\desktop\pharmacy_management\pharmacy_management_system\main.cpp
+	<iostream>
+	"medical_store.h"
+
+1525802455 c:\users\sarwa\desktop\pharmacy_management\pharmacy_management_system\medical_store.h
+
+1525805118 source:c:\users\sarwa\desktop\pharmacy_management\pharmacy_management_system\medical_store.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<dos.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	"medical_store.h"
+

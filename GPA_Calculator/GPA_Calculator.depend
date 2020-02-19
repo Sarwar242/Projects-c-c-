@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522941710 source:c:\users\sarwa\desktop\gpa_calculator\main.cpp
+	<fstream>
+	<string.h>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1524855984 source:c:\users\sarwa\desktop\supermarket\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	<process.h>
+	<fstream>
+	<windows.h>
+

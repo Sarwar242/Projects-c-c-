@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507731091 source:f:\bus schedule,place and it's fare\main.cpp
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

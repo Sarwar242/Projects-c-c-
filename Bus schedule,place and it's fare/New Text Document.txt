@@ -1,0 +1,8 @@
+Bus stand: Main campus\n\n");
+Bus name:University of Barisal\n\n");
+Schedule & bus no:\n\n");
+    printf("Bus no: 5 & 6_morning(8:00 A.M.)\nBus no: 5,6 & 1_morning(9:00 A.M.)\nBus no: 1_noon(12:30 P.M.)\n");
+    printf("Bus no: 5 & 6_noon(1:00 P.M.)\nBus no: 5,6 & 1_noon(2:00 P.M.)\nBus no: 1_noon(3:00 P.M.)\n");
+    printf("Bus no: 5 & 6_afternoon(5:15 P.M.)\n\n");
+   printf("Fare: Free\n\n");
+   printf("Journey time: 15 minutes\n\n");
